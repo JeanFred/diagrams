@@ -1,1 +1,207 @@
-<mxfile host="app.diagrams.net" modified="2023-01-21T19:57:53.340Z" agent="5.0 (X11)" version="20.2.7" etag="kaSESo9YgJEyLNUfJKLW" type="github"><diagram id="PTldQwAcYuaEciMhLzGv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-22T18:50:04.222Z" agent="5.0 (X11)" etag="LmIjaGXIw4k-pf7n35Ur" version="20.2.7" type="github">
+  <diagram id="PTldQwAcYuaEciMhLzGv" name="Page-1">
+    <mxGraphModel dx="2177" dy="913" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CmCb0vIqzzSYg0ennXq--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--1" target="CmCb0vIqzzSYg0ennXq--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Lutris ID &lt;/div&gt;&lt;div&gt;P7597&lt;/div&gt;" link="https://www.wikidata.org/wiki/Property:P7597" id="CmCb0vIqzzSYg0ennXq--1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+            <mxGeometry x="402" y="968" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--9" target="CmCb0vIqzzSYg0ennXq--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--9" target="CmCb0vIqzzSYg0ennXq--28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--9" target="CmCb0vIqzzSYg0ennXq--44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--9" target="CmCb0vIqzzSYg0ennXq--47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="630" />
+              <mxPoint x="224" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--9" target="CmCb0vIqzzSYg0ennXq--46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="630" />
+              <mxPoint x="612" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--9" target="CmCb0vIqzzSYg0ennXq--48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="630" />
+              <mxPoint x="744" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;PCGamingWiki ID&lt;/div&gt;&lt;div&gt;P6337&lt;/div&gt;" link="https://www.wikidata.org/wiki/Property:P6337" id="CmCb0vIqzzSYg0ennXq--9">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+            <mxGeometry x="282" y="660" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;ModDB game ID&lt;/div&gt;&lt;div&gt;P6774&lt;/div&gt;" link="https://www.wikidata.org/wiki/Property:P6774" id="CmCb0vIqzzSYg0ennXq--11">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+            <mxGeometry x="690" y="680" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--12" target="CmCb0vIqzzSYg0ennXq--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--12" target="CmCb0vIqzzSYg0ennXq--17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="591" y="780" />
+              <mxPoint x="591" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--12" target="CmCb0vIqzzSYg0ennXq--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--12" target="CmCb0vIqzzSYg0ennXq--23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="780" />
+              <mxPoint x="590" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--12" target="CmCb0vIqzzSYg0ennXq--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--12" target="CmCb0vIqzzSYg0ennXq--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.431;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--12" target="CmCb0vIqzzSYg0ennXq--31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="780" />
+              <mxPoint x="590" y="986" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--12" target="CmCb0vIqzzSYg0ennXq--33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="780" />
+              <mxPoint x="590" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--12" target="CmCb0vIqzzSYg0ennXq--11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="780" />
+              <mxPoint x="590" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--12" target="CmCb0vIqzzSYg0ennXq--36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--12" target="CmCb0vIqzzSYg0ennXq--37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmCb0vIqzzSYg0ennXq--12" target="CmCb0vIqzzSYg0ennXq--38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Steam ID&lt;/div&gt;&lt;div&gt;P1733&lt;/div&gt;" link="https://www.wikidata.org/wiki/Property:P1733" id="CmCb0vIqzzSYg0ennXq--12">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+            <mxGeometry x="294" y="750" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;HLTB ID&lt;/div&gt;&lt;div&gt;P2816&lt;/div&gt;" link="https://www.wikidata.org/wiki/Property:P2816" id="CmCb0vIqzzSYg0ennXq--15">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+            <mxGeometry x="690" y="750" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Games@Mail.ru ID (P9697)" link="https://www.wikidata.org/wiki/Property:P9697" id="CmCb0vIqzzSYg0ennXq--17">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+            <mxGeometry x="690" y="820" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Co-Optimus ID&lt;/div&gt;&lt;div&gt;P8229&lt;/div&gt;" link="https://www.wikidata.org/wiki/Property:P8229" id="CmCb0vIqzzSYg0ennXq--23">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+            <mxGeometry x="690" y="890" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GOG ID&lt;br&gt;P2725" link="https://www.wikidata.org/wiki/Property:P2725" id="CmCb0vIqzzSYg0ennXq--28">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+            <mxGeometry x="294" y="550" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="RAWG ID&lt;br&gt;P9968" link="https://www.wikidata.org/wiki/Property:P9968" id="CmCb0vIqzzSYg0ennXq--31">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+            <mxGeometry x="690" y="960" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Riot Pixels ID&lt;br&gt;P10393" link="https://www.wikidata.org/wiki/Property:P10393" id="CmCb0vIqzzSYg0ennXq--33">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+            <mxGeometry x="690" y="1030" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--36" value="&lt;div&gt;Platforms&lt;/div&gt;&lt;div&gt;P400&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--37" value="&lt;div&gt;Game modes&lt;/div&gt;&lt;div&gt;P404&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--38" value="&lt;div&gt;Languages&lt;/div&gt;&lt;div&gt;P407&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Humble Store ID P4477" link="https://www.wikidata.org/wiki/Property:P4477" id="CmCb0vIqzzSYg0ennXq--44">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+            <mxGeometry x="422" y="550" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Wine AppDB ID&lt;br&gt;P600" link="https://www.wikidata.org/wiki/Property:P600" id="CmCb0vIqzzSYg0ennXq--46">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+            <mxGeometry x="552" y="550" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Epic Games Store ID P6278" link="https://www.wikidata.org/wiki/Property:P6278" id="CmCb0vIqzzSYg0ennXq--47">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+            <mxGeometry x="164" y="550" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="StrategyWiki ID P9075" link="https://www.wikidata.org/wiki/Property:P9075" id="CmCb0vIqzzSYg0ennXq--48">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+            <mxGeometry x="684" y="550" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--52" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="151" y="968" width="133" height="94" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;IGDB ID&lt;br&gt;&lt;/div&gt;&lt;div&gt;P5794&lt;/div&gt;" link="https://www.wikidata.org/wiki/Property:P5794" id="CmCb0vIqzzSYg0ennXq--2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="CmCb0vIqzzSYg0ennXq--52">
+            <mxGeometry width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;P9043&lt;/div&gt;" link="https://www.wikidata.org/wiki/Property:P9043" id="CmCb0vIqzzSYg0ennXq--5">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CmCb0vIqzzSYg0ennXq--52">
+            <mxGeometry x="40" y="60" width="69" height="34" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CmCb0vIqzzSYg0ennXq--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="CmCb0vIqzzSYg0ennXq--52" source="CmCb0vIqzzSYg0ennXq--2" target="CmCb0vIqzzSYg0ennXq--5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="45" />
+              <mxPoint x="133" y="77" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
